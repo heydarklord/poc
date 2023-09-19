@@ -1,0 +1,558 @@
+{
+    "type": "storyArticle",
+    "locale": "EN",
+    "title": "Simple: What\u00a0you need to\u00a0know",
+    "free_if_triggered": true,
+    "id": "e6c39a86-3d1e-4f01-8fa3-4824d0699722",
+    "text": "WelCome Gaurav Solanki Here You have Customized Your Own Content.",
+    "theme": "light",
+    "theme_v3": "blank_light",
+    "story": {
+        "backgroundImage": {
+            "1x": "https://content.cdn-simple-life.com/static/articles-media/stories/e6c39a86-3d1e-4f01-8fa3-4824d0699722/121901/0%401x.png",
+            "2x": "https://content.cdn-simple-life.com/static/articles-media/stories/e6c39a86-3d1e-4f01-8fa3-4824d0699722/121901/0%402x.png",
+            "3x": "https://content.cdn-simple-life.com/static/articles-media/stories/e6c39a86-3d1e-4f01-8fa3-4824d0699722/121901/0%403x.png"
+        },
+        "cardBackgroundImage": {
+            "1x": "https://content.cdn-simple-life.com/static/articles-media/stories/e6c39a86-3d1e-4f01-8fa3-4824d0699722/121901/0.thumb%401x.png",
+            "2x": "https://content.cdn-simple-life.com/static/articles-media/stories/e6c39a86-3d1e-4f01-8fa3-4824d0699722/121901/0.thumb%402x.png",
+            "3x": "https://content.cdn-simple-life.com/static/articles-media/stories/e6c39a86-3d1e-4f01-8fa3-4824d0699722/121901/0.thumb%403x.png"
+        },
+        "theme": "light",
+        "theme_v3": "blank_light"
+    },
+    "backgroundImage": {
+        "1x": "https://content.cdn-simple-life.com/static/articles-media/stories/e6c39a86-3d1e-4f01-8fa3-4824d0699722/121901/0%401x.png",
+        "2x": "https://content.cdn-simple-life.com/static/articles-media/stories/e6c39a86-3d1e-4f01-8fa3-4824d0699722/121901/0%402x.png",
+        "3x": "https://content.cdn-simple-life.com/static/articles-media/stories/e6c39a86-3d1e-4f01-8fa3-4824d0699722/121901/0%403x.png",
+        "aspectRatio": 0.66607460035524,
+        "loopAnimation": false
+    },
+    "featuredImage": {
+        "image": {
+            "1x": "https://content.cdn-simple-life.com/static/articles-media/stories/e6c39a86-3d1e-4f01-8fa3-4824d0699722/121902/000%401x.png",
+            "2x": "https://content.cdn-simple-life.com/static/articles-media/stories/e6c39a86-3d1e-4f01-8fa3-4824d0699722/121902/000%402x.png",
+            "3x": "https://content.cdn-simple-life.com/static/articles-media/stories/e6c39a86-3d1e-4f01-8fa3-4824d0699722/121902/000%403x.png"
+        },
+        "theme": "light",
+        "theme_v3": "blank_light"
+    },
+    "feed_horizontal_image": {
+        "image": {
+            "1x": "https://content.cdn-simple-life.com/static/articles-media/stories/e6c39a86-3d1e-4f01-8fa3-4824d0699722/122350/1385%401x.png",
+            "2x": "https://content.cdn-simple-life.com/static/articles-media/stories/e6c39a86-3d1e-4f01-8fa3-4824d0699722/122350/1385%402x.png",
+            "3x": null
+        },
+        "theme": "light",
+        "theme_v3": "blank_light"
+    },
+    "pages": [
+        {
+            "type": "content",
+            "sub_type": "story_page",
+            "min_score_constraint": null,
+            "max_score_constraint": null,
+            "items": [],
+            "backgroundImage": {
+                "1x": "https://content.cdn-simple-life.com/static/articles-media/stories/e6c39a86-3d1e-4f01-8fa3-4824d0699722/122001/1%401x.jpg",
+                "2x": "https://content.cdn-simple-life.com/static/articles-media/stories/e6c39a86-3d1e-4f01-8fa3-4824d0699722/122001/1%402x.jpg",
+                "3x": "https://content.cdn-simple-life.com/static/articles-media/stories/e6c39a86-3d1e-4f01-8fa3-4824d0699722/122001/1%403x.jpg",
+                "aspectRatio": 0.46182266009852
+            }
+        },
+        {
+            "type": "content",
+            "sub_type": "story_page",
+            "min_score_constraint": null,
+            "max_score_constraint": null,
+            "items": [],
+            "backgroundImage": {
+                "1x": "https://content.cdn-simple-life.com/static/articles-media/stories/e6c39a86-3d1e-4f01-8fa3-4824d0699722/121904/2%401x.png",
+                "2x": "https://content.cdn-simple-life.com/static/articles-media/stories/e6c39a86-3d1e-4f01-8fa3-4824d0699722/121904/2%402x.png",
+                "3x": "https://content.cdn-simple-life.com/static/articles-media/stories/e6c39a86-3d1e-4f01-8fa3-4824d0699722/121904/2%403x.png",
+                "aspectRatio": 0.46182266009852
+            }
+        },
+        {
+            "type": "content",
+            "sub_type": "story_page",
+            "min_score_constraint": null,
+            "max_score_constraint": null,
+            "items": [],
+            "backgroundImage": {
+                "1x": "https://content.cdn-simple-life.com/static/articles-media/stories/e6c39a86-3d1e-4f01-8fa3-4824d0699722/121905/3%401x.png",
+                "2x": "https://content.cdn-simple-life.com/static/articles-media/stories/e6c39a86-3d1e-4f01-8fa3-4824d0699722/121905/3%402x.png",
+                "3x": "https://content.cdn-simple-life.com/static/articles-media/stories/e6c39a86-3d1e-4f01-8fa3-4824d0699722/121905/3%403x.png",
+                "aspectRatio": 0.46182266009852
+            }
+        },
+        {
+            "type": "content",
+            "sub_type": "story_page",
+            "min_score_constraint": null,
+            "max_score_constraint": null,
+            "items": [],
+            "backgroundImage": {
+                "1x": "https://content.cdn-simple-life.com/static/articles-media/stories/e6c39a86-3d1e-4f01-8fa3-4824d0699722/121907/4%401x.png",
+                "2x": "https://content.cdn-simple-life.com/static/articles-media/stories/e6c39a86-3d1e-4f01-8fa3-4824d0699722/121907/4%402x.png",
+                "3x": "https://content.cdn-simple-life.com/static/articles-media/stories/e6c39a86-3d1e-4f01-8fa3-4824d0699722/121907/4%403x.png",
+                "aspectRatio": 0.46182266009852
+            }
+        },
+        {
+            "type": "content",
+            "sub_type": "story_page",
+            "min_score_constraint": null,
+            "max_score_constraint": null,
+            "items": [],
+            "backgroundImage": {
+                "1x": "https://content.cdn-simple-life.com/static/articles-media/stories/e6c39a86-3d1e-4f01-8fa3-4824d0699722/121906/5%401x.png",
+                "2x": "https://content.cdn-simple-life.com/static/articles-media/stories/e6c39a86-3d1e-4f01-8fa3-4824d0699722/121906/5%402x.png",
+                "3x": "https://content.cdn-simple-life.com/static/articles-media/stories/e6c39a86-3d1e-4f01-8fa3-4824d0699722/121906/5%403x.png",
+                "aspectRatio": 0.46182266009852
+            }
+        },
+        {
+            "type": "content",
+            "sub_type": "story_page",
+            "min_score_constraint": null,
+            "max_score_constraint": null,
+            "items": [],
+            "backgroundImage": {
+                "1x": "https://content.cdn-simple-life.com/static/articles-media/stories/e6c39a86-3d1e-4f01-8fa3-4824d0699722/121908/6%401x.png",
+                "2x": "https://content.cdn-simple-life.com/static/articles-media/stories/e6c39a86-3d1e-4f01-8fa3-4824d0699722/121908/6%402x.png",
+                "3x": "https://content.cdn-simple-life.com/static/articles-media/stories/e6c39a86-3d1e-4f01-8fa3-4824d0699722/121908/6%403x.png",
+                "aspectRatio": 0.46182266009852
+            }
+        },
+        {
+            "type": "content",
+            "sub_type": "story_page",
+            "min_score_constraint": null,
+            "max_score_constraint": null,
+            "items": [],
+            "backgroundImage": {
+                "1x": "https://content.cdn-simple-life.com/static/articles-media/stories/e6c39a86-3d1e-4f01-8fa3-4824d0699722/121909/7%401x.png",
+                "2x": "https://content.cdn-simple-life.com/static/articles-media/stories/e6c39a86-3d1e-4f01-8fa3-4824d0699722/121909/7%402x.png",
+                "3x": "https://content.cdn-simple-life.com/static/articles-media/stories/e6c39a86-3d1e-4f01-8fa3-4824d0699722/121909/7%403x.png",
+                "aspectRatio": 0.46182266009852
+            }
+        },
+        {
+            "type": "content",
+            "sub_type": "story_page",
+            "min_score_constraint": null,
+            "max_score_constraint": null,
+            "items": [],
+            "backgroundImage": {
+                "1x": "https://content.cdn-simple-life.com/static/articles-media/stories/e6c39a86-3d1e-4f01-8fa3-4824d0699722/121910/8%401x.png",
+                "2x": "https://content.cdn-simple-life.com/static/articles-media/stories/e6c39a86-3d1e-4f01-8fa3-4824d0699722/121910/8%402x.png",
+                "3x": "https://content.cdn-simple-life.com/static/articles-media/stories/e6c39a86-3d1e-4f01-8fa3-4824d0699722/121910/8%403x.png",
+                "aspectRatio": 0.46182266009852
+            }
+        }
+    ],
+    "pages_v2": [
+        {
+            "type": "content",
+            "sub_type": "story_page",
+            "min_score_constraint": null,
+            "max_score_constraint": null,
+            "items": [],
+            "backgroundImage": {
+                "1x": "https://content.cdn-simple-life.com/static/articles-media/stories/e6c39a86-3d1e-4f01-8fa3-4824d0699722/122001/1%401x.jpg",
+                "2x": "https://content.cdn-simple-life.com/static/articles-media/stories/e6c39a86-3d1e-4f01-8fa3-4824d0699722/122001/1%402x.jpg",
+                "3x": "https://content.cdn-simple-life.com/static/articles-media/stories/e6c39a86-3d1e-4f01-8fa3-4824d0699722/122001/1%403x.jpg",
+                "aspectRatio": 0.46182266009852
+            }
+        },
+        {
+            "type": "content",
+            "sub_type": "story_page",
+            "min_score_constraint": null,
+            "max_score_constraint": null,
+            "items": [],
+            "backgroundImage": {
+                "1x": "https://content.cdn-simple-life.com/static/articles-media/stories/e6c39a86-3d1e-4f01-8fa3-4824d0699722/121904/2%401x.png",
+                "2x": "https://content.cdn-simple-life.com/static/articles-media/stories/e6c39a86-3d1e-4f01-8fa3-4824d0699722/121904/2%402x.png",
+                "3x": "https://content.cdn-simple-life.com/static/articles-media/stories/e6c39a86-3d1e-4f01-8fa3-4824d0699722/121904/2%403x.png",
+                "aspectRatio": 0.46182266009852
+            }
+        },
+        {
+            "type": "content",
+            "sub_type": "story_page",
+            "min_score_constraint": null,
+            "max_score_constraint": null,
+            "items": [],
+            "backgroundImage": {
+                "1x": "https://content.cdn-simple-life.com/static/articles-media/stories/e6c39a86-3d1e-4f01-8fa3-4824d0699722/121905/3%401x.png",
+                "2x": "https://content.cdn-simple-life.com/static/articles-media/stories/e6c39a86-3d1e-4f01-8fa3-4824d0699722/121905/3%402x.png",
+                "3x": "https://content.cdn-simple-life.com/static/articles-media/stories/e6c39a86-3d1e-4f01-8fa3-4824d0699722/121905/3%403x.png",
+                "aspectRatio": 0.46182266009852
+            }
+        },
+        {
+            "type": "content",
+            "sub_type": "story_page",
+            "min_score_constraint": null,
+            "max_score_constraint": null,
+            "items": [],
+            "backgroundImage": {
+                "1x": "https://content.cdn-simple-life.com/static/articles-media/stories/e6c39a86-3d1e-4f01-8fa3-4824d0699722/121907/4%401x.png",
+                "2x": "https://content.cdn-simple-life.com/static/articles-media/stories/e6c39a86-3d1e-4f01-8fa3-4824d0699722/121907/4%402x.png",
+                "3x": "https://content.cdn-simple-life.com/static/articles-media/stories/e6c39a86-3d1e-4f01-8fa3-4824d0699722/121907/4%403x.png",
+                "aspectRatio": 0.46182266009852
+            }
+        },
+        {
+            "type": "content",
+            "sub_type": "story_page",
+            "min_score_constraint": null,
+            "max_score_constraint": null,
+            "items": [],
+            "backgroundImage": {
+                "1x": "https://content.cdn-simple-life.com/static/articles-media/stories/e6c39a86-3d1e-4f01-8fa3-4824d0699722/121906/5%401x.png",
+                "2x": "https://content.cdn-simple-life.com/static/articles-media/stories/e6c39a86-3d1e-4f01-8fa3-4824d0699722/121906/5%402x.png",
+                "3x": "https://content.cdn-simple-life.com/static/articles-media/stories/e6c39a86-3d1e-4f01-8fa3-4824d0699722/121906/5%403x.png",
+                "aspectRatio": 0.46182266009852
+            }
+        },
+        {
+            "type": "content",
+            "sub_type": "story_page",
+            "min_score_constraint": null,
+            "max_score_constraint": null,
+            "items": [],
+            "backgroundImage": {
+                "1x": "https://content.cdn-simple-life.com/static/articles-media/stories/e6c39a86-3d1e-4f01-8fa3-4824d0699722/121908/6%401x.png",
+                "2x": "https://content.cdn-simple-life.com/static/articles-media/stories/e6c39a86-3d1e-4f01-8fa3-4824d0699722/121908/6%402x.png",
+                "3x": "https://content.cdn-simple-life.com/static/articles-media/stories/e6c39a86-3d1e-4f01-8fa3-4824d0699722/121908/6%403x.png",
+                "aspectRatio": 0.46182266009852
+            }
+        },
+        {
+            "type": "content",
+            "sub_type": "story_page",
+            "min_score_constraint": null,
+            "max_score_constraint": null,
+            "items": [],
+            "backgroundImage": {
+                "1x": "https://content.cdn-simple-life.com/static/articles-media/stories/e6c39a86-3d1e-4f01-8fa3-4824d0699722/121909/7%401x.png",
+                "2x": "https://content.cdn-simple-life.com/static/articles-media/stories/e6c39a86-3d1e-4f01-8fa3-4824d0699722/121909/7%402x.png",
+                "3x": "https://content.cdn-simple-life.com/static/articles-media/stories/e6c39a86-3d1e-4f01-8fa3-4824d0699722/121909/7%403x.png",
+                "aspectRatio": 0.46182266009852
+            }
+        },
+        {
+            "type": "content",
+            "sub_type": "story_page",
+            "min_score_constraint": null,
+            "max_score_constraint": null,
+            "items": [],
+            "backgroundImage": {
+                "1x": "https://content.cdn-simple-life.com/static/articles-media/stories/e6c39a86-3d1e-4f01-8fa3-4824d0699722/121910/8%401x.png",
+                "2x": "https://content.cdn-simple-life.com/static/articles-media/stories/e6c39a86-3d1e-4f01-8fa3-4824d0699722/121910/8%402x.png",
+                "3x": "https://content.cdn-simple-life.com/static/articles-media/stories/e6c39a86-3d1e-4f01-8fa3-4824d0699722/121910/8%403x.png",
+                "aspectRatio": 0.46182266009852
+            }
+        }
+    ],
+    "pages_v3": [
+        {
+            "type": "content",
+            "sub_type": "story_page",
+            "min_score_constraint": null,
+            "max_score_constraint": null,
+            "items": [],
+            "backgroundImage": {
+                "1x": "https://content.cdn-simple-life.com/static/articles-media/stories/e6c39a86-3d1e-4f01-8fa3-4824d0699722/122001/1%401x.jpg",
+                "2x": "https://content.cdn-simple-life.com/static/articles-media/stories/e6c39a86-3d1e-4f01-8fa3-4824d0699722/122001/1%402x.jpg",
+                "3x": "https://content.cdn-simple-life.com/static/articles-media/stories/e6c39a86-3d1e-4f01-8fa3-4824d0699722/122001/1%403x.jpg",
+                "aspectRatio": 0.46182266009852
+            },
+            "auto_play": false
+        },
+        {
+            "type": "content",
+            "sub_type": "story_page",
+            "min_score_constraint": null,
+            "max_score_constraint": null,
+            "items": [],
+            "backgroundImage": {
+                "1x": "https://content.cdn-simple-life.com/static/articles-media/stories/e6c39a86-3d1e-4f01-8fa3-4824d0699722/121904/2%401x.png",
+                "2x": "https://content.cdn-simple-life.com/static/articles-media/stories/e6c39a86-3d1e-4f01-8fa3-4824d0699722/121904/2%402x.png",
+                "3x": "https://content.cdn-simple-life.com/static/articles-media/stories/e6c39a86-3d1e-4f01-8fa3-4824d0699722/121904/2%403x.png",
+                "aspectRatio": 0.46182266009852
+            },
+            "auto_play": false
+        },
+        {
+            "type": "content",
+            "sub_type": "story_page",
+            "min_score_constraint": null,
+            "max_score_constraint": null,
+            "items": [],
+            "backgroundImage": {
+                "1x": "https://content.cdn-simple-life.com/static/articles-media/stories/e6c39a86-3d1e-4f01-8fa3-4824d0699722/121905/3%401x.png",
+                "2x": "https://content.cdn-simple-life.com/static/articles-media/stories/e6c39a86-3d1e-4f01-8fa3-4824d0699722/121905/3%402x.png",
+                "3x": "https://content.cdn-simple-life.com/static/articles-media/stories/e6c39a86-3d1e-4f01-8fa3-4824d0699722/121905/3%403x.png",
+                "aspectRatio": 0.46182266009852
+            },
+            "auto_play": false
+        },
+        {
+            "type": "content",
+            "sub_type": "story_page",
+            "min_score_constraint": null,
+            "max_score_constraint": null,
+            "items": [],
+            "backgroundImage": {
+                "1x": "https://content.cdn-simple-life.com/static/articles-media/stories/e6c39a86-3d1e-4f01-8fa3-4824d0699722/121907/4%401x.png",
+                "2x": "https://content.cdn-simple-life.com/static/articles-media/stories/e6c39a86-3d1e-4f01-8fa3-4824d0699722/121907/4%402x.png",
+                "3x": "https://content.cdn-simple-life.com/static/articles-media/stories/e6c39a86-3d1e-4f01-8fa3-4824d0699722/121907/4%403x.png",
+                "aspectRatio": 0.46182266009852
+            },
+            "auto_play": false
+        },
+        {
+            "type": "content",
+            "sub_type": "story_page",
+            "min_score_constraint": null,
+            "max_score_constraint": null,
+            "items": [],
+            "backgroundImage": {
+                "1x": "https://content.cdn-simple-life.com/static/articles-media/stories/e6c39a86-3d1e-4f01-8fa3-4824d0699722/121906/5%401x.png",
+                "2x": "https://content.cdn-simple-life.com/static/articles-media/stories/e6c39a86-3d1e-4f01-8fa3-4824d0699722/121906/5%402x.png",
+                "3x": "https://content.cdn-simple-life.com/static/articles-media/stories/e6c39a86-3d1e-4f01-8fa3-4824d0699722/121906/5%403x.png",
+                "aspectRatio": 0.46182266009852
+            },
+            "auto_play": false
+        },
+        {
+            "type": "content",
+            "sub_type": "story_page",
+            "min_score_constraint": null,
+            "max_score_constraint": null,
+            "items": [],
+            "backgroundImage": {
+                "1x": "https://content.cdn-simple-life.com/static/articles-media/stories/e6c39a86-3d1e-4f01-8fa3-4824d0699722/121908/6%401x.png",
+                "2x": "https://content.cdn-simple-life.com/static/articles-media/stories/e6c39a86-3d1e-4f01-8fa3-4824d0699722/121908/6%402x.png",
+                "3x": "https://content.cdn-simple-life.com/static/articles-media/stories/e6c39a86-3d1e-4f01-8fa3-4824d0699722/121908/6%403x.png",
+                "aspectRatio": 0.46182266009852
+            },
+            "auto_play": false
+        },
+        {
+            "type": "content",
+            "sub_type": "story_page",
+            "min_score_constraint": null,
+            "max_score_constraint": null,
+            "items": [],
+            "backgroundImage": {
+                "1x": "https://content.cdn-simple-life.com/static/articles-media/stories/e6c39a86-3d1e-4f01-8fa3-4824d0699722/121909/7%401x.png",
+                "2x": "https://content.cdn-simple-life.com/static/articles-media/stories/e6c39a86-3d1e-4f01-8fa3-4824d0699722/121909/7%402x.png",
+                "3x": "https://content.cdn-simple-life.com/static/articles-media/stories/e6c39a86-3d1e-4f01-8fa3-4824d0699722/121909/7%403x.png",
+                "aspectRatio": 0.46182266009852
+            },
+            "auto_play": false
+        },
+        {
+            "type": "content",
+            "sub_type": "story_page",
+            "min_score_constraint": null,
+            "max_score_constraint": null,
+            "items": [],
+            "backgroundImage": {
+                "1x": "https://content.cdn-simple-life.com/static/articles-media/stories/e6c39a86-3d1e-4f01-8fa3-4824d0699722/121910/8%401x.png",
+                "2x": "https://content.cdn-simple-life.com/static/articles-media/stories/e6c39a86-3d1e-4f01-8fa3-4824d0699722/121910/8%402x.png",
+                "3x": "https://content.cdn-simple-life.com/static/articles-media/stories/e6c39a86-3d1e-4f01-8fa3-4824d0699722/121910/8%403x.png",
+                "aspectRatio": 0.46182266009852
+            },
+            "auto_play": false
+        }
+    ],
+    "related": [
+        {
+            "type": "storyArticle",
+            "locale": "EN",
+            "title": "Believe It or Not, but You\u2019ve Already Been Fasting",
+            "free_if_triggered": false,
+            "id": "8d164ae3-4536-4a8d-ba79-6308f3e9e1ae",
+            "feed_horizontal_image": {
+                "image": {
+                    "1x": "https://content.cdn-simple-life.com/static/articles-media/stories/8d164ae3-4536-4a8d-ba79-6308f3e9e1ae/97979/00%401x.jpg",
+                    "2x": "https://content.cdn-simple-life.com/static/articles-media/stories/8d164ae3-4536-4a8d-ba79-6308f3e9e1ae/97979/00%402x.jpg",
+                    "3x": "https://content.cdn-simple-life.com/static/articles-media/stories/8d164ae3-4536-4a8d-ba79-6308f3e9e1ae/97979/00%403x.jpg"
+                },
+                "theme": "light",
+                "theme_v3": "blank_light"
+            }
+        },
+        {
+            "type": "storyArticle",
+            "locale": "EN",
+            "title": "Eating Window and Clean Hours Explained",
+            "free_if_triggered": false,
+            "id": "d88abf18-4068-4dd7-a78a-051b15e9fb11",
+            "feed_horizontal_image": {
+                "image": {
+                    "1x": "https://dkea7qxfae4ft.cloudfront.net/static/articles-media/stories/d88abf18-4068-4dd7-a78a-051b15e9fb11/63273/00%401x.png",
+                    "2x": "https://dkea7qxfae4ft.cloudfront.net/static/articles-media/stories/d88abf18-4068-4dd7-a78a-051b15e9fb11/63273/00%402x.png",
+                    "3x": "https://dkea7qxfae4ft.cloudfront.net/static/articles-media/stories/d88abf18-4068-4dd7-a78a-051b15e9fb11/63273/00%403x.png"
+                },
+                "theme": "light",
+                "theme_v3": "blank_light"
+            }
+        },
+        {
+            "type": "storyArticle",
+            "locale": "EN",
+            "title": "Fasting Is a Meta-Habit, Not a Diet",
+            "free_if_triggered": false,
+            "id": "3d7388bc-12c4-4257-8b49-246cad91cd92",
+            "feed_horizontal_image": {
+                "image": {
+                    "1x": "https://dkea7qxfae4ft.cloudfront.net/static/articles-media/stories/3d7388bc-12c4-4257-8b49-246cad91cd92/61854/00%401x.png",
+                    "2x": "https://dkea7qxfae4ft.cloudfront.net/static/articles-media/stories/3d7388bc-12c4-4257-8b49-246cad91cd92/61854/00%402x.png",
+                    "3x": "https://dkea7qxfae4ft.cloudfront.net/static/articles-media/stories/3d7388bc-12c4-4257-8b49-246cad91cd92/61854/00%403x.png"
+                },
+                "theme": "light",
+                "theme_v3": "blank_light"
+            }
+        },
+        {
+            "type": "storyArticle",
+            "locale": "EN",
+            "title": "What to Eat Before Starting a Fast?",
+            "free_if_triggered": false,
+            "id": "184fff2d-cd4a-4b41-9494-f2af3217aef7",
+            "feed_horizontal_image": {
+                "image": {
+                    "1x": "https://dkea7qxfae4ft.cloudfront.net/static/articles-media/stories/184fff2d-cd4a-4b41-9494-f2af3217aef7/19098/00%401x.png",
+                    "2x": "https://dkea7qxfae4ft.cloudfront.net/static/articles-media/stories/184fff2d-cd4a-4b41-9494-f2af3217aef7/19098/00%402x.png",
+                    "3x": "https://dkea7qxfae4ft.cloudfront.net/static/articles-media/stories/184fff2d-cd4a-4b41-9494-f2af3217aef7/19098/00%403x.png"
+                },
+                "theme": "light",
+                "theme_v3": "blank_light"
+            }
+        },
+        {
+            "type": "storyArticle",
+            "locale": "EN",
+            "title": "Basic Benefits of Intermittent Fasting",
+            "free_if_triggered": false,
+            "id": "36002a7c-56b6-49b4-998c-173c3bcf8d57",
+            "feed_horizontal_image": {
+                "image": {
+                    "1x": "https://dkea7qxfae4ft.cloudfront.net/static/articles-media/stories/36002a7c-56b6-49b4-998c-173c3bcf8d57/20752/00%401x.png",
+                    "2x": "https://dkea7qxfae4ft.cloudfront.net/static/articles-media/stories/36002a7c-56b6-49b4-998c-173c3bcf8d57/20752/00%402x.png",
+                    "3x": "https://dkea7qxfae4ft.cloudfront.net/static/articles-media/stories/36002a7c-56b6-49b4-998c-173c3bcf8d57/20752/00%403x.png"
+                },
+                "theme": "light",
+                "theme_v3": "blank_light"
+            }
+        },
+        {
+            "type": "storyArticle",
+            "locale": "EN",
+            "title": "The Right Way to Break Your Fast",
+            "free_if_triggered": true,
+            "dynamic_titles": [
+                {
+                    "tags_only": {
+                        "triggeredBy": "log_first_food_after_fasting"
+                    },
+                    "title": "You're Done with Your First Fast! What's Next? "
+                }
+            ],
+            "id": "ee191da4-7aaf-4f74-b9ad-2ee1a9364e71",
+            "feed_horizontal_image": {
+                "image": {
+                    "1x": "https://dkea7qxfae4ft.cloudfront.net/static/articles-media/stories/ee191da4-7aaf-4f74-b9ad-2ee1a9364e71/23756/00%401x.png",
+                    "2x": "https://dkea7qxfae4ft.cloudfront.net/static/articles-media/stories/ee191da4-7aaf-4f74-b9ad-2ee1a9364e71/23756/00%402x.png",
+                    "3x": "https://dkea7qxfae4ft.cloudfront.net/static/articles-media/stories/ee191da4-7aaf-4f74-b9ad-2ee1a9364e71/23756/00%403x.png"
+                },
+                "theme": "light",
+                "theme_v3": "blank_light"
+            }
+        },
+        {
+            "type": "storyArticle",
+            "locale": "EN",
+            "title": "The Perfect Way to Break Your Fast",
+            "free_if_triggered": false,
+            "dynamic_titles": [
+                {
+                    "tags_only": {
+                        "triggeredBy": "log_protein_fat_breakfast"
+                    },
+                    "title": "You Broke Your Fast with Healthy Food. Good Job!"
+                }
+            ],
+            "id": "10e95fa0-f5b1-41de-a50a-4fbae3918572",
+            "feed_horizontal_image": {
+                "image": {
+                    "1x": "https://dkea7qxfae4ft.cloudfront.net/static/articles-media/stories/10e95fa0-f5b1-41de-a50a-4fbae3918572/39242/00%401x.png",
+                    "2x": "https://dkea7qxfae4ft.cloudfront.net/static/articles-media/stories/10e95fa0-f5b1-41de-a50a-4fbae3918572/39242/00%402x.png",
+                    "3x": "https://dkea7qxfae4ft.cloudfront.net/static/articles-media/stories/10e95fa0-f5b1-41de-a50a-4fbae3918572/39242/00%403x.png"
+                },
+                "theme": "light",
+                "theme_v3": "blank_light"
+            }
+        },
+        {
+            "type": "storyArticle",
+            "locale": "EN",
+            "title": "Do I Need Fasting If I'm Satisfied with My Weight?",
+            "free_if_triggered": false,
+            "dynamic_titles": [
+                {
+                    "tags_only": {
+                        "triggeredBy": "log_success_fasting_5_week"
+                    },
+                    "title": "Successful Fasting is Not Only About Losing Weight"
+                }
+            ],
+            "id": "848de596-515c-4bf0-9638-9df2a4ffaa48",
+            "feed_horizontal_image": {
+                "image": {
+                    "1x": "https://content.cdn-simple-life.com/static/articles-media/stories/848de596-515c-4bf0-9638-9df2a4ffaa48/119450/00%401x.png",
+                    "2x": "https://content.cdn-simple-life.com/static/articles-media/stories/848de596-515c-4bf0-9638-9df2a4ffaa48/119450/00%402x.png",
+                    "3x": "https://content.cdn-simple-life.com/static/articles-media/stories/848de596-515c-4bf0-9638-9df2a4ffaa48/119450/00%403x.png"
+                },
+                "theme": "light",
+                "theme_v3": "blank_light"
+            }
+        },
+        {
+            "type": "storyArticle",
+            "locale": "EN",
+            "title": "Fasting for Weight Loss: Why It Works",
+            "free_if_triggered": false,
+            "dynamic_titles": [
+                {
+                    "tags_only": {
+                        "triggeredBy": "log_not_success_fasting_lose_weight_goal"
+                    },
+                    "title": "Missed Your Fasting Goal This Weekend?"
+                }
+            ],
+            "id": "c977373b-f6de-49f4-9baa-c668e8eac732"
+        },
+        {
+            "type": "storyArticle",
+            "locale": "EN",
+            "title": "Weekends and Fasting",
+            "free_if_triggered": true,
+            "id": "ba82cc81-e09a-4ed3-8020-952480b629e9"
+        }
+    ],
+    "startingLikesCount": 3558,
+    "shareUrl": "",
+    "canComment": false,
+    "canBookmark": false,
+    "canBookmarkV2": true,
+    "canLike": true,
+    "reviewer": null
+}
